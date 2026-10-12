@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![workout-cool](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![workout-cool](images/preview.png)](https://github.com/Swift-Tech-Co/workout-cool)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Contributors
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/workout-cool">
   
 </a>
 
@@ -84,7 +84,7 @@ management._
 1. **Clone the repository**
 
    ```bash
-   git clone https://www.swifttechco.com
+   git clone https://github.com/Swift-Tech-Co/workout-cool
    cd workout-cool
    ```
 
@@ -110,7 +110,7 @@ management._
    - This will start the database in Docker, run migrations, seed the DB, and start the Next.js dev server.
    - To stop services run `make down`
 
-3. **Open your browser** Navigate to https://www.swifttechco.com
+3. **Open your browser** Navigate to https://github.com/Swift-Tech-Co/workout-cool
 
 </details>
 
@@ -152,7 +152,7 @@ See the - [Exercise database import section](#exercise-database-import)
    pnpm dev
    ```
 
-7. **Open your browser** Navigate to https://www.swifttechco.com
+7. **Open your browser** Navigate to https://github.com/Swift-Tech-Co/workout-cool
 
 </details>
 
@@ -175,8 +175,6 @@ You can use the provided example.
 ### Import Commands
 
 ```bash
-
-
 
 ## Project Architecture
 
@@ -237,7 +235,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 > 📖 **For detailed self-hosting instructions, see our [Complete Self-hosting Guide](docs/SELF-HOSTING.md)**
 >
 > 📺 **You can also watch a 3-minute video guide on self-hosting Workout.Cool.**
-
 
 To seed the database with the sample exercises, set the `SEED_SAMPLE_DATA` env variable to `true`.
 
@@ -305,20 +302,19 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
     
   </a>
   <br><br>
-  <a href="https://www.swifttechco.com" target="_blank">
+  <a href="https://github.com/Swift-Tech-Co/workout-cool" target="_blank">
     
   </a>
 </div>
 
-
 Appear in the README and on the website as supporter by donating:
 
 <div align="center">
-  <a href="https://www.swifttechco.com" target="_blank">
+  <a href="https://github.com/Swift-Tech-Co/workout-cool" target="_blank">
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- TODO: setup -->
-  <!-- <a href="https://www.swifttechco.com" target="_blank">
+  <!-- <a href="https://github.com/Swift-Tech-Co/workout-cool" target="_blank">
   </a> -->
 </div>
 
@@ -333,7 +329,7 @@ Appear in the README and on the website as supporter by donating:
 
 <br />
 <br />
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/workout-cool">
 
 </a>
 
@@ -351,13 +347,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/workout-cool
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
