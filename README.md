@@ -1,38 +1,12 @@
-<div align="center">
-<img src="public/logo.png" alt="Workout.cool Logo" width="120" height="120">
-<h1>Workout.cool</h1>
-<h3><em>Modern fitness coaching platform with comprehensive exercise database</em></h3>
-<p>
-<a href="https://www.swifttechco.com">
-<a href="https://www.swifttechco.com">  
+# workout-cool
 
-<a href="https://www.swifttechco.com">
+## What This Is
 
-<a href="https://www.swifttechco.com">  
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the workout-cool notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
+## Images
 
-<a href="LICENSE">
-  
-</a>
-
-<p>
-    <a href="https://t.me/+Qt_eFvkb2rliMzNh">
-      
-    </a>
-    <a href="https://www.swifttechco.com">
-    </a>
-  </p>
-  <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.swifttechco.com">Deutsch</a> |
-  <a href="https://www.swifttechco.com">Español</a> |
-  <a href="https://www.swifttechco.com">français</a> |
-  <a href="https://www.swifttechco.com">日本語</a> |
-  <a href="https://www.swifttechco.com">한국어</a> |
-  <a href="https://www.swifttechco.com">Português</a> |
-  <a href="https://www.swifttechco.com">Русский</a> |
-  <a href="https://www.swifttechco.com">中文</a>
-</p>
-</div>
+[![workout-cool](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Table of Contents
 
@@ -60,7 +34,7 @@ detailed instructions and video demonstrations.
 ## 🎯 Project Origin & Motivation
 
 This project was born from a personal mission to revive and improve upon a previous fitness platform. As the **primary contributor** to the
-original [workout.lol](https://www.swifttechco.com) project, I witnessed its journey and abandonment. 🥹
+original workout.lol project, I witnessed its journey and abandonment. 🥹
 
 ### The Story Behind **_workout.cool_**
 
@@ -101,9 +75,9 @@ management._
 
 ### Prerequisites
 
-- [Node.js](https://www.swifttechco.com) (v18+)
-- [pnpm](https://www.swifttechco.com) (v8+)
-- [Docker](https://www.swifttechco.com)
+- Node.js (v18+)
+- pnpm (v8+)
+- Docker
 
 ### Installation
 
@@ -136,7 +110,7 @@ management._
    - This will start the database in Docker, run migrations, seed the DB, and start the Next.js dev server.
    - To stop services run `make down`
 
-3. **Open your browser** Navigate to [https://www.swifttechco.com](https://www.swifttechco.com)
+3. **Open your browser** Navigate to https://www.swifttechco.com
 
 </details>
 
@@ -178,7 +152,7 @@ See the - [Exercise database import section](#exercise-database-import)
    pnpm dev
    ```
 
-7. **Open your browser** Navigate to [https://www.swifttechco.com](https://www.swifttechco.com)
+7. **Open your browser** Navigate to https://www.swifttechco.com
 
 </details>
 
@@ -201,29 +175,8 @@ You can use the provided example.
 ### Import Commands
 
 ```bash
-# Import exercises from a CSV file
 
-## Images
 
-[![workout-cool](https://opengraph.githubassets.com/1/Snouzy/workout-cool)](https://www.swifttechco.com)
-
-pnpm run import:exercises-full /path/to/your/exercises.csv
-
-# Example with the provided sample data
-pnpm run import:exercises-full ./data/sample-exercises.csv
-```
-
-### CSV Format Example
-
-```csv
-id,name,name_en,description,description_en,full_video_url,full_video_image_url,introduction,introduction_en,slug,slug_en,attribute_name,attribute_value
-157,"Fentes arrières à la barre","Barbell Reverse Lunges","<p>Stand upright...</p>","<p>Stand upright...</p>",https://www.swifttechco.com
-157,"Fentes arrières à la barre","Barbell Reverse Lunges","<p>Stand upright...</p>","<p>Stand upright...</p>",https://www.swifttechco.com
-```
-
-Want unlimited exercise for local development ?
-
-Just ask chatGPT with the prompt from `./scripts/import-exercises-with-attributes.prompt.md`
 
 ## Project Architecture
 
@@ -283,7 +236,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 > 📖 **For detailed self-hosting instructions, see our [Complete Self-hosting Guide](docs/SELF-HOSTING.md)**
 >
-> 📺 **You can also watch a [3-minute video guide on self-hosting Workout.Cool](https://www.swifttechco.com).**
+> 📺 **You can also watch a 3-minute video guide on self-hosting Workout.Cool.**
 
 
 To seed the database with the sample exercises, set the `SEED_SAMPLE_DATA` env variable to `true`.
@@ -324,10 +277,10 @@ pnpm start
 
 ## Resources
 
-- [Feature-Sliced Design](https://www.swifttechco.com)
-- [Next.js Documentation](https://www.swifttechco.com)
-- [Prisma Documentation](https://www.swifttechco.com)
-- [Better Auth](https://www.swifttechco.com)
+- Feature-Sliced Design
+- Next.js Documentation
+- Prisma Documentation
+- Better Auth
 
 ## License
 
@@ -394,14 +347,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
