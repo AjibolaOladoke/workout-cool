@@ -377,3 +377,11 @@ Compiled and maintained from upstream [Snouzy/workout-cool](https://github.com/S
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
